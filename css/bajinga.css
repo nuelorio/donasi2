@@ -1,0 +1,29 @@
+.lembagaLain {
+	display:none; 
+}
+.untukLain { 
+	display:none;
+}
+.panel.panel-default{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.panel.panel-default.tes{
+	background: #D9EDF7;
+	color: black;
+	font-size: 16px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.img-thumb{
+	width: 240px;
+	height: auto;
+}
+#bawahBank{
+	margin-top: 10px;
+}
+.form-control.tes{
+	width: 94.3%;
+}
+
